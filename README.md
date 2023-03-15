@@ -1,5 +1,5 @@
 # Java-Dictionary-Project
-<b>This projects purpose is to create a dictionary utilizing Java. The program takes user input and stores it in alphabetical order. The user inputs a word and then defines its meaning in the program. The program will then display all words and their associated definitions that the user created.</b>
+<b>This project's purpose is to create a dictionary utilizing Java. The program takes user input and stores it in alphabetical order. The user inputs a word and then defines its meaning in the program. The program will then display all words and their associated definitions that the user created.</b>
 <br></br>
 <br></br>
 <b>Here is the home screen for the dictionary program</b>
